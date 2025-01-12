@@ -11,15 +11,15 @@ I'm passionate about leveraging technology to solve real-world problems and crea
 ## My Projects  
 🌟 **Pancreatic Cancer Detection System**  
 Achieved 90% accuracy in predicting pancreatic cancer diagnoses using Random Forest and Logistic Regression.  
-🔗 [GitHub Repo](#)
+🔗 [GitHub Repo](https://github.com/prajjwal-23/MachineLearning_lab/tree/main/CancerDetection)
 
 🌟 **Gesture Control System**  
 Designed an intuitive computer vision solution to navigate laptops using hand gestures.  
-🔗 [GitHub Repo](#)
+🔗 [GitHub Repo](https://github.com/prajjwal-23/Gesture-control-volume)
 
 🌟 **AutoInsight**  
 Built a website for the latest car and bike reviews, hosted on AWS.  
-🔗 [GitHub Repo](#)
+🔗 [GitHub Repo](https://github.com/prajjwal-23/AutoInsightIndia)
 
 ## Skills  
 - **Programming**: Python, C++, SQL, JavaScript  
